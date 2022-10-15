@@ -13,37 +13,37 @@
 ## 怎么做
 
 ### 需要做
-* 使用HTML5常用的语义化标签，顾名思义
-`<h1>~<h6>`
-`<article>`
-`<header>`
-`<section>`
-`<footer>`
-`<aside>`
-`<nav>`
-`<ul>`
-`<ol>`
-`<li>`
-`<strong>`
-`<del>`
-`<audio>`
-`<video>`
-`<canvas>`
+* 使用HTML5常用的语义化标签，顾名思义  
+`<h1>~<h6>`  
+`<article>`  
+`<header>`  
+`<section>`  
+`<footer>`  
+`<aside>`  
+`<nav>`  
+`<ul>`  
+`<ol>`  
+`<li>`  
+`<strong>`  
+`<del>`  
+`<audio>`  
+`<video>`  
+`<canvas>`  
 
 
 ### 不要做
-* 少用或者不用无语义的标签（实际上会通过添加类名实现语义化）
-`<div>`
-`<span>`
+* 少用或者不用无语义的标签（实际上会通过添加类名实现语义化）  
+`<div>`  
+`<span>`  
 
 <br />
 
-* 不用纯样式标签，所有样式都应该用CSS控制
-`<i>` 斜体
-`<b>` 粗体
+* 不用纯样式标签，所有样式都应该用CSS控制  
+`<i>` 斜体  
+`<b>` 粗体  
 
 <br />
 
-* 不用HTML5标准已弃用的标签
-`<big>`
-`<font>`
+* 不用HTML5标准已弃用的标签  
+`<big>`  
+`<font>`  
